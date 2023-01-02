@@ -1,0 +1,133 @@
+{
+    "works":[
+        {
+            "id": 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobil Ux",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae eligendi quia, mollitia neque molestias quod!"
+        },
+        {
+            "id": 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobil Ux",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae eligendi quia, mollitia neque molestias quod!"
+        },
+        {
+            "id": 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobil Ux",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae eligendi quia, mollitia neque molestias quod!"
+        }
+    ],
+
+    "portfolio":[
+        {
+            "id": 1,
+            "image": "/images/Portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "/images/Portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id": 3,
+            "image": "/images/Portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id": 4,
+            "image": "/images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id": 5,
+            "image": "/images/Portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id": 6,
+            "image": "/images/Portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id": 7,
+            "image": "/images/Portfolio/portfolio-img7.jpg"
+        },
+        {
+            "id": 8,
+            "image": "/images/Portfolio/portfolio-img8.jpg"
+        }
+    ],
+
+    "social":[
+        {
+            "id": 1,
+            "icon": "icon fa fa-facebook fa-lg",
+            "title": "Follow Me on",
+            "body": "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon": "icon fa fa-twitter fa-lg",
+            "title": "Tweet Me on",
+            "body": "Social Twitter"
+        },
+        {
+            "id": 3,
+            "icon": "icon fa fa-pinterest fa-lg",
+            "title": "Pin Me on",
+            "body": "Social Pinterest"
+        }
+    ],
+
+    "profile":[
+        {
+            "id": 1,
+            "dataName" :"Name",
+            "dataValue": "Mohamed Mashhoot"
+        },
+        {
+            "id": 2,
+            "dataName" :"Birthday",
+            "dataValue": "15/8/2001"
+        },
+        {
+            "id": 3,
+            "dataName" :"Address",
+            "dataValue": "El Giza"
+        },
+        {
+            "id": 4,
+            "dataName" :"Phone",
+            "dataValue": "2222 3333 4444"
+        },
+        {
+            "id": 5,
+            "dataName" :"Email",
+            "dataValue": "mhmdmshhwt42@gmail.com"
+        },
+        {
+            "id": 6,
+            "dataName" :"Website",
+            "dataValue": "www.google.com"
+        }
+    ],
+
+    "skills":[
+        {   "id":1, 
+            "title": "Bootstrap",
+            "percentage": "100%"
+        },
+        {    
+            "id":2,
+            "title": "CSS3",
+            "percentage": "90%"
+        },
+        {    
+            "id":3,
+            "title": "Photoshop",
+            "percentage": "80%"
+        },
+        {    
+            "id":4,
+            "title": "HTML5",
+            "percentage": "90%"
+        }
+    ]
+}
