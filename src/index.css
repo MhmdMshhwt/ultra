@@ -16,3 +16,15 @@ code {
   width: 85%;
   margin: auto;
 }
+
+.Link{
+  display: block;
+  color: #222;
+  text-decoration: none;
+  padding: 10px 15px;
+  font-weight: bold;      
+}
+
+.Link:hover{
+  color: #eb5424
+}
